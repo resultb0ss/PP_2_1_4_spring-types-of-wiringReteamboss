@@ -16,7 +16,5 @@ public class AppConfig {
 
     @Bean public static Duck5 getDuck(Egg6 egg) { return new Duck5(egg);}
 
-    @Bean public static Needle7 getNeedle(Deth8 deth) { return new Needle7(deth);}
-
 
 }
